@@ -16,16 +16,22 @@ Cek Validasi Sertifikat Codepolitan
    Go-Lang Context
 5. https://www.codepolitan.com/c/H3MQSPA
 
-6. Go-Lang Web
-   
-7. Go-Lang HttpRouter
+   Go-Lang Web
+6. https://www.codepolitan.com/c/PIYF3EG
 
-8. Go-Lang JSON
+   Go-Lang HttpRouter
+7. https://www.codepolitan.com/c/HRAXQ4F
 
-9. MySQL Dasar
+   Go-Lang JSON
+8. https://www.codepolitan.com/c/VGISXZN
 
-10. Go-Lang Database MySQL
+   Go-Lang Embed
+9. https://www.codepolitan.com/c/OSRJ3HW
 
-11. Belajar RESTful API
+10. MySQL Dasar
 
-12. Go-Lang RESTful API
+11. Go-Lang Database MySQL
+
+13. Belajar RESTful API
+
+14. Go-Lang RESTful API
