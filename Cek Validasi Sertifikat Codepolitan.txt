@@ -28,10 +28,13 @@ Cek Validasi Sertifikat Codepolitan
    Go-Lang Embed
 9. https://www.codepolitan.com/c/OSRJ3HW
 
-10. MySQL Dasar
+    MySQL Dasar
+10. https://www.codepolitan.com/c/NR6HZZ2
 
-11. Go-Lang Database MySQL
+    Go-Lang Database MySQL
+11. https://www.codepolitan.com/c/SRTMWJH
 
-13. Belajar RESTful API
+    Belajar RESTful API
+13. https://www.codepolitan.com/c/CXDVP8Q
 
 14. Go-Lang RESTful API
