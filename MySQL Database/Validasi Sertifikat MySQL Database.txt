@@ -1,0 +1,8 @@
+
+Validasi Sertifikat MySQL Database
+
+   MySQL Dasar
+1. https://www.codepolitan.com/c/NR6HZZ2
+
+   Go-Lang Database MySQL
+2. https://www.codepolitan.com/c/SRTMWJH

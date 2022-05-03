@@ -1,0 +1,25 @@
+Validasi Sertifikat Go-Lang Programming
+
+   Go-Lang Dasar
+1. https://www.codepolitan.com/c/XLZWSMW
+
+   Go-Lang Modules
+2. https://www.codepolitan.com/c/POJBRV7
+
+   Go-Lang Goroutines
+3. https://www.codepolitan.com/c/VD0XFQC
+
+   Go-Lang Context
+4. https://www.codepolitan.com/c/H3MQSPA
+
+   Go-Lang Web
+5. https://www.codepolitan.com/c/PIYF3EG
+
+   Go-Lang HttpRouter
+6. https://www.codepolitan.com/c/HRAXQ4F
+
+   Go-Lang JSON
+7. https://www.codepolitan.com/c/VGISXZN
+
+   Go-Lang Embed
+8. https://www.codepolitan.com/c/OSRJ3HW

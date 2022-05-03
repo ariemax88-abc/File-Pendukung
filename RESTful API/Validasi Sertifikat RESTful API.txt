@@ -1,0 +1,11 @@
+
+Validasi Sertifikat RESTful API
+
+   Belajar RESTful API
+1. https://www.codepolitan.com/c/CXDVP8Q
+
+   Go-Lang RESTful API
+2. https://www.codepolitan.com/c/XNOGLQ7
+
+   Open API
+3. https://www.codepolitan.com/c/Y6SE1P2
